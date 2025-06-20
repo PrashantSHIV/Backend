@@ -19,24 +19,40 @@
 ---
 
 ## 📚 Concepts & Libraries Covered
+## 📚 Topics & Libraries Covered
 
-| No. | Topic / Library       | File Name                 | Status       |
-|-----|------------------------|----------------------------|--------------|
-| 1   | Node.js Basics         | `1-node-basics.js`         | ✔️ Completed |
-| 2   | Express Setup          | `2-express-setup.js`       | ✔️ Completed |
-| 3   | Routing                | `3-routing.js`             | ⏳ Pending |
-| 4   | Middleware             | `4-middleware.js`          | ⏳ Pending |
-| 5   | Controllers Pattern    | `5-controllers.js`         | ⏳ Pending |
-| 6   | Nodemailer             | `6-nodemailer.js`          | ⏳ Pending |
-| 7   | Multer (File Uploads)  | `7-multer.js`              | ⏳ Pending |
-| 8   | Puppeteer              | `8-puppeteer.js`           | ⏳ Pending |
-| 9   | Dotenv                 | `9-dotenv.js`              | ⏳ Pending |
-| 10  | CORS                   | `10-cors.js`               | ⏳ Pending |
-| 11  | Cookie Parser          | `11-cookie-parser.js`      | ⏳ Pending |
-| 12  | JWT Auth Basics        | `12-jwt-auth.js`           | ⏳ Pending |
-| 13  | Refresh Token Flow     | `13-refresh-token.js`      | ⏳ Pending |
-| 14  | Global Error Handling  | `14-error-handler.js`      | ⏳ Pending |
-| 15  | Project Structure Tips | `15-project-structure.md`  | ⏳ Pending |
+| No. | Topic / Library              | File Name                        | Status       |
+|-----|------------------------------|----------------------------------|--------------|
+| 1   | Node.js Basics               | `01-node-basics.js`              | ⏳ Pending |
+| 2   | File System (fs)             | `02-file-system.js`              | ⏳ Pending |
+| 3   | HTTP Module                  | `03-http-module.js`              | ⏳ Pending |
+| 4   | Express Basics               | `04-express.js`                  | ⏳ Pending |
+| 5   | Routing                      | `05-routing.js`                  | ⏳ Pending |
+| 6   | Middlewares                  | `06-middlewares.js`              | ⏳ Pending |
+| 7   | Dynamic Routing              | `07-dynamic-routing.js`          | ⏳ Pending |
+| 8   | Static Files (public folder) | `08-static-files.js`             | ⏳ Pending |
+| 9   | Dotenv                       | `09-dotenv.js`                   | ⏳ Pending |
+| 10  | CORS                         | `10-cors.js`                     | ⏳ Pending |
+| 11  | JWT Authentication           | `11-jwt.js`                      | ⏳ Pending |
+| 12  | Cookies                      | `12-cookies.js`                  | ⏳ Pending |
+| 13  | Bcrypt (Hashing)             | `13-bcrypt.js`                   | ⏳ Pending |
+| 14  | Cookie-parser                | `14-cookie-parser.js`            | ⏳ Pending |
+| 15  | Multer (File Uploads)        | `15-multer.js`                   | ⏳ Pending |
+| 16  | Nodemailer                   | `16-nodemailer.js`               | ⏳ Pending |
+| 17  | p-limit                      | `17-p-limit.js`                  | ⏳ Pending |
+| 18  | Express Validator            | `18-express-validator.js`        | ⏳ Pending |
+| 19  | ExcelJS                      | `19-exceljs.js`                  | ⏳ Pending |
+| 20  | Puppeteer                    | `20-puppeteer.js`                | ⏳ Pending |
+| 21  | OAuth Concepts               | `21-oauth.js`                    | ⏳ Pending |
+| 22  | Google Sheets API            | `22-google-sheets.js`            | ⏳ Pending |
+| 23  | Google Drive API             | `23-google-drive.js`             | ⏳ Pending |
+| 24  | Express-rate-limit           | `24-rate-limit.js`               | ⏳ Pending |
+| 25  | API Rate-Limiting            | `25-api-limit.js`                | ⏳ Pending |
+| 26  | Payment Gateway Integration  | `26-payment-gateway.js`          | ⏳ Pending |
+| 27  | WebSockets                   | `27-websockets.js`               | ⏳ Pending |
+| 28  | WebRTC (Explore)             | `28-webrtc.js`                   | ⏳ To Learn|
+
+📝 Add more as I learn 
 
 📝 Status will be updated as I complete each file.
 
@@ -74,7 +90,7 @@ Each `.js` file contains:
 ## 🧑‍💻 About Me
 
 Made with 💙 and focus by **Prashant Kumar**  
-📍 Full Stack Developer | Backend Explorer | Code Mentor  
+📍 Full Stack Developer | Backend Explorer   
 🌐 [GitHub Profile](https://github.com/PrashantSHIV)
 
 ---
